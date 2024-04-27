@@ -21,7 +21,7 @@
 ## 📌 Objective
 
 <p>
-Currently pursuing a Ph.D. in Chemical Engineering at IIT Guwahati, my research focuses on developing advanced membrane technologies for the vacuum membrane distillation process. I aim to contribute innovative solutions to water purification and separation processes, emphasizing sustainability and efficiency in industrial applications.
+Pursuing a Ph.D. in Chemical Engineering at IIT Guwahati, I am dedicated to advancing the field of membrane technology for environmental sustainability. My research focuses on the vacuum membrane distillation process, targeting the purification of wastewater, achieving zero water discharge, and enhancing the reuse of water. I am also investigating the purification of seawater, removal of microplastics from seawater, and innovative approaches to crystallization processes.
 </p>
 
 ## 🎓 Education
@@ -30,7 +30,7 @@ Currently pursuing a Ph.D. in Chemical Engineering at IIT Guwahati, my research 
 - **Degree:** Ph.D. in Chemical Engineering
 - **Years:** 2021-Present
 - **CGPA:** 8.38/10
-- **Research Focus:** Membranes, Vacuum Membrane Distillation Process
+- **Research Focus:** Membrane Technologies, Vacuum Membrane Distillation, Wastewater Purification, Seawater Desalination, Microplastics Removal, Zero Water Discharge Strategies, Water Reuse
 
 ### 🏫 Indian Institute of Technology, Ropar
 - **Degree:** M.Tech in Chemical Engineering
