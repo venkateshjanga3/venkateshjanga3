@@ -21,7 +21,7 @@
 ## 📌 Objective
 
 <p>
-Ph.D. in Chemical Engineering from IIT Guwahati, focusing on innovative and sustainable engineering solutions through process modeling, simulation, and optimization. I am eager to contribute my advanced technical skills in professional settings that emphasize innovation and sustainability.
+Currently pursuing a Ph.D. in Chemical Engineering at IIT Guwahati, my research focuses on developing advanced membrane technologies for the vacuum membrane distillation process. I aim to contribute innovative solutions to water purification and separation processes, emphasizing sustainability and efficiency in industrial applications.
 </p>
 
 ## 🎓 Education
@@ -30,6 +30,7 @@ Ph.D. in Chemical Engineering from IIT Guwahati, focusing on innovative and sust
 - **Degree:** Ph.D. in Chemical Engineering
 - **Years:** 2021-Present
 - **CGPA:** 8.38/10
+- **Research Focus:** Membranes, Vacuum Membrane Distillation Process
 
 ### 🏫 Indian Institute of Technology, Ropar
 - **Degree:** M.Tech in Chemical Engineering
@@ -53,7 +54,7 @@ Ph.D. in Chemical Engineering from IIT Guwahati, focusing on innovative and sust
 
 ### 📚 Teaching Assistant at IIT Guwahati & IIT Ropar
 - **Period:** Various courses over tenure
-- Responsibilities included assisting course instruction, lab sessions, and mentoring students on chemical simulation tools and MATLAB.
+- Responsibilities included course instruction support, lab sessions, and mentoring students in chemical simulation tools and MATLAB.
 
 ## 🛠 Skills
 
@@ -65,14 +66,13 @@ Ph.D. in Chemical Engineering from IIT Guwahati, focusing on innovative and sust
 ## 📈 Projects
 
 ### 🔄 Process Modeling Analysis of Styrene Production
-- **Description:** Detailed analysis and simulation of the styrene production process.
+- **Description:** Conducted detailed analysis and simulation of the styrene production process, focusing on system efficiency and cost-effectiveness.
 - **Role:** Lead researcher, model development, simulation, and optimization.
 
 ### 🚰 Development of Adsorbent for Removing Fluoride from Groundwater
-- **Description:** Research and development of a new adsorbent from natural resources for fluoride removal.
+- **Description:** Developed a novel adsorbent from natural resources for effective fluoride removal, contributing to safer drinking water.
 - **Role:** Researcher, material characterization, adsorption testing.
 
 ### 🌡️ Leadership in Technical and Cultural Events
-- **Description:** Organized and led multiple events at NIT, Calicut focusing on technical and cultural enhancements.
+- **Description:** Successfully organized and led multiple events at NIT, Calicut focusing on both technical advancements and cultural appreciation.
 - **Role:** Event manager, senior executive of committees.
-
