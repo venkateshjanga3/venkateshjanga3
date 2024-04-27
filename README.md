@@ -21,10 +21,15 @@
 ## 📌 Objective
 
 <p>
-M.Tech. in Chemical Engineering graduate from the Indian Institute of Technology, Ropar, interested in Process Modeling, Simulation, and Optimization. Eager to apply advanced technical skills in a professional setting to contribute to innovative and sustainable engineering solutions.
+Ph.D. in Chemical Engineering from IIT Guwahati, focusing on innovative and sustainable engineering solutions through process modeling, simulation, and optimization. I am eager to contribute my advanced technical skills in professional settings that emphasize innovation and sustainability.
 </p>
 
 ## 🎓 Education
+
+### 🏫 Indian Institute of Technology, Guwahati
+- **Degree:** Ph.D. in Chemical Engineering
+- **Years:** 2021-Present
+- **CGPA:** 8.38/10
 
 ### 🏫 Indian Institute of Technology, Ropar
 - **Degree:** M.Tech in Chemical Engineering
@@ -34,7 +39,6 @@ M.Tech. in Chemical Engineering graduate from the Indian Institute of Technology
 ### 🏫 National Institute of Technology, Calicut
 - **Degree:** B.Tech in Chemical Engineering
 - **Years:** 2014-2018
-- **CGPA:** 5.88/10
 
 ### 🏫 S.R. Junior College
 - **Subjects:** Pre-University Course
@@ -53,8 +57,8 @@ M.Tech. in Chemical Engineering graduate from the Indian Institute of Technology
 
 ## 🛠 Skills
 
-- **Simulation Tools:** DWSIM, MATLAB
-- **Programming Languages:** MATLAB
+- **Simulation Tools:** DWSIM, MATLAB, Dymola
+- **Programming Languages:** MATLAB, Modelica
 - **Languages:** English, Telugu, Hindi
 - **Soft Skills:** Leadership, Communication, Team Coordination
 
